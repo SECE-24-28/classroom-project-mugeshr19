@@ -49,7 +49,7 @@ const Capsule =()=>{
     return(
         <>
         <Wrapper>
-            <div style={{width : "100vw",display:"flex",alignItems:"center",justifyContent:"center",background:"lightgrey"}}>
+            <div style={{width : "100vw",display:"flex",alignItems:"center",justifyContent:"center"}}>
                 
                 <div style={{width : "70vw",height : "20vh",borderRadius:"200px",display:"flex",alignItems:"center",justifyContent:"center",background:"red"}}>
                     <TextContent>
@@ -57,7 +57,7 @@ const Capsule =()=>{
                         <h2>Learners Today, Leaders Tomorrow</h2>
                         <div>
                             <p>with our continous research and development, we provide</p>
-                        <p>you with an excellent Aptitude training.</p>
+                            <p>you with an excellent Aptitude training.</p>
                         </div>
                     </div>
                     </TextContent>
