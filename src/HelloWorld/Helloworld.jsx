@@ -16,7 +16,7 @@ const HelloWorld = () => {
       <div><SymbolOfExcellence/></div>
       <div><VisonMission/></div>
       <Capsule/>
-      <div></div>
+      <div>hello</div>
     </HelloWorldStyle>
   );
 };
