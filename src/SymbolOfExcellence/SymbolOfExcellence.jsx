@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const TextContent = styled.div`
-  h1 {
+  h1 {  
   font-size: 300%;
     @media (max-width: 768px) {
       font-size: 200%;
@@ -23,7 +23,7 @@ const SpecialDiv = styled.div`
             width:90vw;
         })
 `;
-const SymbolOfExcellence=()=>{
+const SymbolOfExcellence=()=>{ 
     return(
         <>
             <div style={{height:"20rem",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:"20px"}}>

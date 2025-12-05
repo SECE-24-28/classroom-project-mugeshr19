@@ -3,7 +3,7 @@ import Form from "./HelloWorld/Form";
 function App() {
   return (
     <>
-      <HelloWorld />
+      <HelloWorld/>
     </>
   );
 }
